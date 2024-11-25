@@ -1,5 +1,5 @@
 {
-  "type": "application/geo+json", 
+  "type": "FeatureCollection", 
   "features": [
     {
       "geometry": {
